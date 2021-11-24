@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] Used an alert dialog to edit tasks instead of a new activity
+* [x] Used an alert dialog to edit tasks instead of a new activity
 
 ## Video Walkthrough
 
